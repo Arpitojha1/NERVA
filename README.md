@@ -79,7 +79,7 @@ NERVA is currently in active development for the ISRO Hackathon (Problem 4). The
 
 ```bash
 # TODO: Clone the repository
-# git clone https://github.com/your-username/nerva.git
+# git clone https://github.com/Arpitojha1/NERVA.git
 # cd nerva
 
 # TODO: Set up the Python virtual environment and install backend dependencies
@@ -99,5 +99,3 @@ NERVA is currently in active development for the ISRO Hackathon (Problem 4). The
 ```
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
