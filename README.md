@@ -66,36 +66,25 @@ NERVA is currently in active development for the ISRO Hackathon (Problem 4). The
 
 ## Team: Tessellate
 
-- **[Your Name]** — Systems Architect & Graph Intelligence
+- **Arpit Ojha** — Systems Architect & Graph Intelligence
   - *Focus:* Graph construction, criticality analysis, backend architecture, frontend dashboard.
   - [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](#)
-- **[Friend's Name]** — Computer Vision Engineer
+- **Ishanya Tripathi** — Computer Vision Engineer
   - *Focus:* Segmentation model fine-tuning, topology-aware loss implementation.
   - [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](#)
 
 ## How to Run
 
-> **Note:** These are placeholder instructions. Detailed setup commands will be provided once the initial codebase is pushed.
 
 ```bash
 # TODO: Clone the repository
 # git clone https://github.com/Arpitojha1/NERVA.git
 # cd nerva
 
-# TODO: Set up the Python virtual environment and install backend dependencies
-# python -m venv venv
-# source venv/bin/activate
-# pip install -r requirements.txt
-
-# TODO: Download model weights and place them in the appropriate directory
-# mkdir weights && cd weights && wget <model-url>
-
 # TODO: Install frontend dependencies
 # cd frontend
 # npm install
-
-# TODO: Run the FastAPI backend and React frontend development servers
-# (Detailed commands coming soon)
+# npm run dev
 ```
 
 ## License
