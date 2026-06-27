@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+.font-display {
+  font-family: 'Archivo Black', 'Inter', sans-serif;
+}
+
+.font-sans {
+  font-family: 'Inter', sans-serif;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Style overrides and custom scrolls */
+body {
+  background-color: #F5F5F0;
+  color: #1A1A1A;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Custom thick border utilities */
+.border-thick {
+  border-width: 3px;
+  border-color: #1A1A1A;
+}
+
+.border-medium {
+  border-width: 2px;
+  border-color: #1A1A1A;
+}
+
+/* Custom shadows */
+.shadow-neo {
+  box-shadow: 4px 4px 0px 0px #1A1A1A;
+}
+
+.shadow-neo-lg {
+  box-shadow: 8px 8px 0px 0px #1A1A1A;
+}
+
+.shadow-neo-sm {
+  box-shadow: 2px 2px 0px 0px #1A1A1A;
+}
+
+/* Paper texture style */
+.bg-cream {
+  background-color: #F5F5F0;
+}
+
+.bg-paper {
+  background-color: #FCFCF9;
+}
+
+/* Animations */
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(0.98); }
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

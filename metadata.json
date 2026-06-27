@@ -1,0 +1,6 @@
+{
+  "name": "NERVA Pitch Deck",
+  "description": "Interactive 9-slide hackathon pitch deck for ISRO Hackathon Problem 4: Route Resilience, featuring a live simulation dashboard, architecture details, and process flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
